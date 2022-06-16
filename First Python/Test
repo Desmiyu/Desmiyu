@@ -1,0 +1,5 @@
+import pandas as pd
+#path=r'G:\.shortcut-targets-by-id\1qNiN--9Qfnfgk1CC9BHaQ2lkqUOfo_JN\WD Testing\WD_EIB\2022-06-14-10-44-32\Canada\df.csv'
+# path=r'G:\.shortcut-targets-by-id' #\1qNiN--9Qfnfgk1CC9BHaQ2lkqUOfo_JN\WD Testing\WD_EIB\2022-06-14-10-44-32\Canada\df.csv'
+# print path
+# ChaFile= pd.read_csv(path)
